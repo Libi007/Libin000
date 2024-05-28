@@ -1,0 +1,13 @@
+Issue description
+
+There is an error on the 12th line ,the variable is wrong.
+Why the issue need to fix?
+
+if the error is not fixed it will show error message in future while running it.
+How to reproduce in case of bugs
+
+the error must be rectified, num3 changes to num1
+other information
+
+Operating System windows 11
+@vpriyapm
